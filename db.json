@@ -1,0 +1,200 @@
+{
+  "new_arrival": [
+    {
+      "id": 1,
+      "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/MayDayOut_LeafGreen_phPieroFasanotto_1024x1024.jpg?v=1653493902&auto=format&w=430&",
+      "Name": "MaYDay Outdoor Light",
+      "title": "Flos",
+      "price": "215"
+    },
+    {
+      "id": 2,
+      "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/HP_6750_greykenzo_v2_6750_1024x1024.jpg?v=1653403102&auto=format&w=430&",
+      "Name": "Piloti Table Stone",
+      "title": "Fredericia",
+      "price": "1595"
+    },
+    {
+      "id": 3,
+      "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/FK63_oak_oil_V1-large_1024x1024.jpg?v=1653326544&auto=format&w=430&",
+      "Name": "FK63 Wall Mounted Bookcase",
+      "title": "Carl Hansen & son",
+      "price": "742"
+    },
+    {
+      "id": 4,
+      "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/BM1106_walnut_oil_saddleleather_cognac_side-large_1024x1024.jpg?v=1653314282&auto=format&w=430&",
+      "Name": "BM1106 HuntsMan chair",
+      "title": "Carl Hansen & son",
+      "price": "1374"
+    },
+    {
+      "id": 5,
+      "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/BeamcoffeetablebyMatthewHiltonforSCP-Squareblackframewithashbeams_6_1024x1024.jpg?v=1653310445&auto=format&w=430&",
+      "Name": "Beam Coffee Table",
+      "title": "SCP",
+      "price": "980"
+    },
+    {
+      "id": 6,
+      "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/Relate-side-table-h60-smoked-oak-black-Muuto-5000x5000-hi-res_1024x1024.jpg?v=1652962292&auto=format&w=430&",
+      "Name": "Relate Side table",
+      "title": "Muuto",
+      "price": "365"
+    },
+    {
+      "id": 7,
+      "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/Luminator_red_on_phPieroFasanotto_1024x1024.jpg?v=1652880311&auto=format&w=430&",
+      "Name": "Luminator",
+      "title": "Flos",
+      "price": "47"
+    },
+    {
+      "id": 8,
+      "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/IsletsDiningTableAngled_1024x1024.jpg?v=1652798567&auto=format&w=430&",
+      "Name": "lslets Table",
+      "title": "Fredericia",
+      "price": "7483"
+    }
+  ],
+  "farniture": [
+    {
+      "id": 9,
+      "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/haus-london-carl-hansen-and-son-fk10-plico4_1024x1024.jpg?v=1628034582&auto=format&w=430&",
+      "Name": "FK10 pilico Chair High Back",
+      "title": "Carl Hansan & son",
+      "price": "2227"
+    },
+    {
+      "id": 10,
+      "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/haus-london-l-ercolani-cut-out-imagery22_1024x1024.jpg?v=1631738386&auto=format&w=430&",
+      "Name": "REpair Chair - Hide Seat",
+      "title": "Ercol",
+      "price": "2215"
+    },
+    {
+      "id": 11,
+      "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/KarakorumDedar_001_Pearl_b0be0ffb-489b-4762-9650-059fc3c4a440_1024x1024.jpg?v=1647280327&auto=format&w=430&",
+      "Name": "Pacha Lounge Chair",
+      "title": "Gubi",
+      "price": "1999"
+    },
+    {
+      "id": 12,
+      "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/BM_2229_v2_naturalsaddleleather_lacqueredoak_1024x1024.jpg?v=1652373209&auto=format&w=430&",
+      "Name": "Hunting Chair",
+      "title": "Fredericia",
+      "price": "5038"
+    },
+    {
+      "id": 13,
+      "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/haus-london-lercolani-resized_1024x1024.jpg?v=1633961622&auto=format&w=430&",
+      "Name": "Butterfly Chair",
+      "title": "Ercol",
+      "price": "650"
+    },
+    {
+      "id": 14,
+      "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/carl_hansen_ch88_smoked_oak_back_1024x1024.jpeg?v=1643110126&auto=format&w=430&",
+      "Name": "CH88T Dinning Chair",
+      "title": "Carl Hansen & Son",
+      "price": "397"
+    },
+    {
+      "id": 15,
+      "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/haus-london-hay-revolt-hero_1024x1024.jpg?v=1633091446&auto=format&w=430&",
+      "Name": "Revolt Chair",
+      "title": "Hay",
+      "price": "325"
+    },
+    {
+      "id": 16,
+      "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/haus-london-fritz-hansen-series-77_1024x1024.jpg?v=1626324903&auto=format&w=430&",
+      "Name": "Series 7 Chair Chrome base",
+      "title": "Fritz Hansen",
+      "price": "403"
+    }
+  ],
+  "lighting": [
+    {
+      "id": 17,
+      "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/haus-london-menu-carrie3_1024x1024.jpg?v=1633510716&auto=format&w=430&",
+      "Name": "Carrie LED Lamp Leather",
+      "title": "Menu",
+      "price": "180"
+    },
+    {
+      "id": 18,
+      "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/akari1a_1_1024x1024.jpg?v=1571262576&auto=format&w=430&",
+      "Name": "Akari 1A Table Lamp",
+      "title": "Vitra",
+      "price": "255"
+    },
+    {
+      "id": 19,
+      "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/haus-london-hay-arcs-light3_1024x1024.jpg?v=1633358434&auto=format&w=430&",
+      "Name": "Arcs Table Lamp",
+      "title": "Hay",
+      "price": "209"
+    },
+    {
+      "id": 20,
+      "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/haus-london-ferm-living-vuelta_1024x1024.jpg?v=1634140187&auto=format&w=430&",
+      "Name": "Vuelta table Lamp",
+      "title": "Ferm Living",
+      "price": "185"
+    },
+    {
+      "id": 21,
+      "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/Snoopy_orange_1024x1024.png?v=1620220266&auto=format&w=430&",
+      "Name": "Snoopy Light",
+      "title": "Flos",
+      "price": "845"
+    },
+    {
+      "id": 22,
+      "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/Gravity_TableLamp_Small_GreyMarble_Canvas_off_1024x1024.jpg?v=1571262759&auto=format&w=430&",
+      "Name": "Gravity Table Lamp",
+      "title": "Gubi",
+      "price": "499"
+    },
+    {
+      "id": 23,
+      "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/haus-london-flos-parentesi-504_1024x1024.jpg?v=1632746103&auto=format&w=430&",
+      "Name": "Parentesi 50th Anniversary Edition",
+      "title": "Flos",
+      "price": "390"
+    },
+    {
+      "id": 24,
+      "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/Akari10A.hs_1024x1024.jpg?v=1571262575&auto=format&w=430&",
+      "Name": "Akari 10A Floor lamp",
+      "title": "Vitra",
+      "price": "615"
+    }
+  ],
+  "Accessories": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "cart": [
+    {
+      "id": 6,
+      "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/Relate-side-table-h60-smoked-oak-black-Muuto-5000x5000-hi-res_1024x1024.jpg?v=1652962292&auto=format&w=430&",
+      "Name": "Relate Side table",
+      "title": "Muuto",
+      "price": "365"
+    },
+    {
+      "id": 4,
+      "img": "https://hausimg.imgix.net/s/files/1/0053/2792/products/BM1106_walnut_oil_saddleleather_cognac_side-large_1024x1024.jpg?v=1653314282&auto=format&w=430&",
+      "Name": "BM1106 HuntsMan chair",
+      "title": "Carl Hansen & son",
+      "price": "1374"
+    }
+  ],
+  "register": []
+}

@@ -1,0 +1,63 @@
+.page{
+    width: 83%;
+    /* border:1px solid red; */
+    align-self: right;
+    align-items: right;
+    align-content: right;
+    float: right;
+    margin-top: 40px;
+}
+.detail>p{
+    text-align: left;
+    padding: 0 20px 20px 20px;
+}
+.detail>div{
+    text-align: left;
+    padding: 20px;
+    font-size: 30px;
+    font-weight: 400;
+}
+.box{
+    border: "1px solid black";
+    /* height:'500px'; */
+}
+.box>div>p:nth-child(2){
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.box>div>p:nth-child(2):hover{
+    text-align: left;
+    margin-left: 20px;
+    color: blue;
+}
+.box>div>p{
+    text-align: left;
+    margin-left: 20px;
+}
+.img{
+    width : 100%;
+    height : 80%;
+    /* border: 1px solid black; */
+}
+.bottombox{
+    background-color: #E5E8E8;
+    padding: 0 0 15px 0;
+}
+
+.bottombox:hover{
+    background-color: white ;
+    padding: 0 0 15px 0;
+}
+
+.basket_button{
+    width: 400px;
+    background: #00A0DC;
+    color: White;
+    padding: 10px 50px 10px 50px;
+}
+
+
+
+

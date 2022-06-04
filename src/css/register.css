@@ -1,0 +1,31 @@
+.Register{
+    width: 83%;
+    /* border:1px solid red; */
+    float: right;
+    margin-top: 40px;
+    display: flex;
+    background-color: #F2F3F4;
+    height: 550px;
+    /* position: fixed; */
+}
+.left{
+    /* border:1px solid red;  */
+    height: 100px;
+    width: 30%;
+    margin: 20px 0 0 20px;
+    font-size: 30px;
+    font-weight: 400;
+    padding-right: 50px;
+    text-align: left;
+}
+.right{
+    /* border:1px solid red;  */
+    height: 100px;
+    width: 45%;
+    margin: 20px 0 0 0;
+}
+.login:hover{
+    color: blue;
+    /* border:1px solid red;  */
+    padding-left: 0;
+}
