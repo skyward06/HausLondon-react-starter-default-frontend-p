@@ -32,18 +32,6 @@ https://hauslondon-com-clone.vercel.app/
 ![Screenshot (185)](https://user-images.githubusercontent.com/97519781/172024079-4215bf6a-ae36-4644-9617-f0f51d0ca9aa.png)
 
 
-## [Getting Started]
-
-### Execution..
-Want to run in your local Machine? Great!
-
-To run, follow these steps:
-
-- Clone my repository `https://github.com/akashbind12/hauslondon.com_clone.git`
-- npm i
-- npm run dev
-
-
 ## Built with 
 - React
 - Redux
@@ -52,10 +40,6 @@ To run, follow these steps:
 - chakra-ui
 - json-server
 
-
-## Creators
-
-- [@akashbind12](https://github.com/akashbind12)
 
 
 
